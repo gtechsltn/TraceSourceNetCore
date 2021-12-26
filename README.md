@@ -1,0 +1,5 @@
+# Debugging in .NET Core
++ Use Trace and TraceSource in .NET Core applications.
++ https://www.codeproject.com/Articles/5255953/Use-Trace-and-TraceSource-in-NET-Core-Logging
++ Use Trace and TraceSource in .NET Core Logging
++ https://www.codeproject.com/Articles/5255953/Use-Trace-and-TraceSource-in-NET-Core-Logging
